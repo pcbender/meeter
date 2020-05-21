@@ -1,0 +1,274 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Meeter\n"
+"POT-Creation-Date: 2020-04-09 11:28+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Themis Dakanalis <tdakanalis@cytech.gr>\n"
+"Language-Team: Cytech\n"
+"Report-Msgid-Bugs-To: Themis Dakanalis <tdakanalis@cytech.gr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: meeter.php:336
+#, php-format
+msgid "Meeter requires at least version %s of BuddyPress."
+msgstr ""
+
+#: meeter.php:337
+#, php-format
+msgid "Upgrade BuddyPress to at least version %s"
+msgstr ""
+
+#: meeter.php:347
+msgid "Meeter requires to be activated on the blog where BuddyPress is activated."
+msgstr ""
+
+#: meeter.php:348
+msgid "Activate Meeter on the same blog than BuddyPress"
+msgstr ""
+
+#: meeter.php:352
+msgid "Meeter and BuddyPress need to share the same network configuration."
+msgstr ""
+
+#: meeter.php:353
+msgid "Make sure Meeter is activated at the same level than BuddyPress on the network"
+msgstr ""
+
+#: meeter.php:360
+msgid "deactivate"
+msgstr ""
+
+#: meeter.php:361
+#, php-format
+msgid "You should %s Meeter"
+msgstr ""
+
+#: meeter.php:368
+msgid "Once done try to activate Meeter again."
+msgstr ""
+
+#: includes/meeter-component-class.php:106
+msgctxt "Meeter group call screen sub nav"
+msgid "Meet the Group"
+msgstr ""
+
+#: includes/meeter-component-class.php:116
+msgctxt "Meeter members call screen sub nav"
+msgid "Meet Members"
+msgstr ""
+
+#: includes/meeter-component-class.php:197
+msgid "Remove Invite"
+msgstr ""
+
+#: includes/meeter-component-class.php:297
+#, php-format
+msgid "%s: You sent a meet request"
+msgstr ""
+
+#: includes/meeter-component-class.php:299
+#, php-format
+msgid "%s: User %s sent you a meet request"
+msgstr ""
+
+#: includes/meeter-component-class.php:336
+#, php-format
+msgid "Room %s"
+msgstr ""
+
+#: includes/meeter-functions.php:206
+msgid "[{{{site.name}}}] You have a new meet request in group: {{group.name}}"
+msgstr ""
+
+#: includes/meeter-functions.php:208
+msgid ""
+"<a href=\"{{{inviter.url}}}\">{{inviter.name}}</a> has invited you to join a meet as member of the group &quot;{{group.name}}&quot;. <a href=\"{{{meet.url}}}\">\n"
+"Go here to enter the meet</a> or <a href=\"{{{group.url}}}\">visit the group</a> to learn more."
+msgstr ""
+
+#: includes/meeter-functions.php:210
+msgid "{{inviter.name}} has invited you to join a meet as member of the group \"{{group.name}}\". To join the meet, visit: {{{meet.url}}}. To learn more about the group, visit: {{{group.url}}}. To view {{inviter.name}}'s profile, visit: {{{inviter.url}}}"
+msgstr ""
+
+#: includes/meeter-group-class.php:101
+msgid "Settings saved successfully"
+msgstr ""
+
+#: includes/meeter-group-class.php:123
+msgid "This content is only available to group members."
+msgstr ""
+
+#: includes/meeter-group-class.php:137
+msgid " Settings"
+msgstr ""
+
+#: includes/meeter-group-class.php:140
+msgid "Allow members of this group to enter the same video conference room."
+msgstr ""
+
+#: includes/meeter-group-class.php:164
+msgid "Activate"
+msgstr ""
+
+#: includes/meeter-group-class.php:170
+msgid "Domain"
+msgstr ""
+
+#: includes/meeter-group-class.php:172
+msgid "The domain the Jitsi Meet server runs. Defaults to their free hosted service."
+msgstr ""
+
+#: includes/meeter-group-class.php:178
+msgid "Room"
+msgstr ""
+
+#: includes/meeter-group-class.php:180
+msgid "Set the room group members will enter automatically when visiting the "
+msgstr ""
+
+#: includes/meeter-group-class.php:188
+msgid "Password"
+msgstr ""
+
+#: includes/meeter-group-class.php:190
+msgid "Set the password the group members will have to enter to join the room. The first to visit - and therefore create - the room will enter without any password. The rest participants will have to fill-in the password."
+msgstr ""
+
+#: includes/meeter-group-class.php:196
+msgid "Toolbar"
+msgstr ""
+
+#: includes/meeter-group-class.php:198
+msgid "The toolbar buttons to get displayed in comma separated format. For more information refer to <a  target=\"_blank\" href=\"https://github.com/jitsi/jitsi-meet/blob/master/interface_config.js#L49\">TOOLBAR_BUTTONS</a>."
+msgstr ""
+
+#: includes/meeter-group-class.php:204
+msgid "Settings"
+msgstr ""
+
+#: includes/meeter-group-class.php:206
+msgid "The settings to be available in comma separated format. For more information refer to <a  target=\"_blank\" href=\"https://github.com/jitsi/jitsi-meet/blob/master/interface_config.js#L57\">SETTINGS_SECTIONS</a>."
+msgstr ""
+
+#: includes/meeter-group-class.php:212
+msgid "Width"
+msgstr ""
+
+#: includes/meeter-group-class.php:214
+msgid "The width in pixels or percentage of the embedded window."
+msgstr ""
+
+#: includes/meeter-group-class.php:220
+msgid "Height"
+msgstr ""
+
+#: includes/meeter-group-class.php:222
+msgid "The height in pixels or percentage of the embedded window."
+msgstr ""
+
+#: includes/meeter-group-class.php:228
+msgid "Background Color"
+msgstr ""
+
+#: includes/meeter-group-class.php:230
+msgid "The background color of the window when camera is off."
+msgstr ""
+
+#: includes/meeter-group-class.php:236
+msgid "Default Language"
+msgstr ""
+
+#: includes/meeter-group-class.php:238
+msgid "The default language."
+msgstr ""
+
+#: includes/meeter-group-class.php:245
+msgid "Show Watermark"
+msgstr ""
+
+#: includes/meeter-group-class.php:247
+msgid "Show/Hide the Jitsi Meet watermark. Please leave it checked unless you use your own domain."
+msgstr ""
+
+#: includes/meeter-group-class.php:254
+msgid "Show Brand Watermark"
+msgstr ""
+
+#: includes/meeter-group-class.php:256
+msgid "Show/Hide the Jitsi Meet Brand watermark."
+msgstr ""
+
+#: includes/meeter-group-class.php:262
+msgid "Brand Watermark Link"
+msgstr ""
+
+#: includes/meeter-group-class.php:264
+msgid "The link for the brand watermark."
+msgstr ""
+
+#: includes/meeter-group-class.php:271
+msgid "Film Strip Mode Only"
+msgstr ""
+
+#: includes/meeter-group-class.php:273
+msgid "Display the window in film strip only mode."
+msgstr ""
+
+#: includes/meeter-group-class.php:280
+msgid "Start Audio Only"
+msgstr ""
+
+#: includes/meeter-group-class.php:282
+msgid "Every participant enters the room having enabled only their microphone. Camera is off."
+msgstr ""
+
+#: includes/meeter-group-class.php:289
+msgid "Disable Video Quality Indicator"
+msgstr ""
+
+#: includes/meeter-group-class.php:291
+msgid "Hide/Show the video quality indicator."
+msgstr ""
+
+#: templates/groups/single/meeter/home.php:8
+msgid "Meeter secondary navigation"
+msgstr ""
+
+#: templates/groups/single/meeter/home.php:16
+msgid "Select a room"
+msgstr ""
+
+#: templates/groups/single/meeter/home.php:18
+msgid "selected"
+msgstr ""
+
+#: templates/groups/single/meeter/home.php:39
+msgid "This content is only available to invited members."
+msgstr ""
+
+#: templates/groups/single/meeter/members.php:18
+msgid "Room Name"
+msgstr ""
+
+#: templates/groups/single/meeter/members.php:21
+msgid "Search for members to invite in the room"
+msgstr ""
+
+#: templates/groups/single/meeter/members.php:34
+msgid "Leave Room"
+msgstr ""
+
+#: templates/groups/single/meeter/members.php:35
+msgid "Send Invites"
+msgstr ""
