@@ -1,14 +1,14 @@
 <?php
 /**
 Plugin Name: Meeter
-Plugin URI:
+Plugin URI: https://github.com/pcbender/meeter
 Description: Adds a meeting room with video and audio capabilities to BuddyPress. Powered by <a target="_blank" href="https://jitsi.org/"> Jitsi Meet </a>.
 Version: 1.6.0
 Requires at least: 4.6.0
 Tags: buddypress
 License: GPL V2
-Author: Themis Dakanalis <tdakanalis@cytech,gr>
-Author URI: https://www.cytechmobile.com/employee/themis-dakanalis/
+Author: PCBender, Themis Dakanalis
+Author URI: https://github.com/pcbender/meeter
 Text Domain: meeter
 Domain Path: /languages
 */

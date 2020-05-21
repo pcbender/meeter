@@ -1,5 +1,5 @@
 === Meeter ===
-Contributors: tdakanalis
+Contributors: pcbender, tdakanalis
 Tags: Meeter, jitsi, video, audio, conference, buddypress
 Requires at least: 4.5
 Tested up to: 5.4
